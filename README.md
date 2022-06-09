@@ -6,6 +6,6 @@
 
 
 1. [BMICalculator](https://github.com/hy0417sage/AndroidProjects/tree/main/BMICalculator)
-2. [LottoNumberGenerator](https://github.com/hy0417sage/AndroidProjects/tree/main/LottoNumberGenerator)
-3. [SecertDairy](https://github.com/hy0417sage/AndroidProjects/tree/main/SecertDairy)
+2. [LottoNumberGenerator](https://github.com/hy0417sage/AndroidProjects/tree/main/LottoNumbersGenerator)
+3. [SecertDairy](https://github.com/hy0417sage/AndroidProjects/tree/main/SecretDairy)
 4. [Calculator](https://github.com/hy0417sage/AndroidProjects/tree/main/Calculator)
