@@ -5,7 +5,7 @@
 - 변화 과정을 기록하며 앱개발을 시작하겠다! 화이티잉!!
 
 
-1. BMICalculator
-2. LottoNumberGenerator
-3. SecertDairy
-4. Calculator
+1. [BMICalculator](https://github.com/hy0417sage/AndroidProjects/tree/main/BMICalculator)
+2. [LottoNumberGenerator](https://github.com/hy0417sage/AndroidProjects/tree/main/LottoNumbersGenerator)
+3. [SecertDairy](https://github.com/hy0417sage/AndroidProjects/tree/main/SecretDairy)
+4. [Calculator](https://github.com/hy0417sage/AndroidProjects/tree/main/Calculator)
